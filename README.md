@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate full stack developer with keen interest in Artificial Intelligence.</h3>
-<img align="right" alt="lets_code" width="400" src="https://images.app.goo.gl/Lv7waAhwJPtc12me9">
+<img align="right" alt="lets_code" width="400" src="https://images.app.goo.gl/R2v2MZN9DUogGyLSA">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8962&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8962" /> </p>
