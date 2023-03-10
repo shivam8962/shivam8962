@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate full stack developer with keen interest in Artificial Intelligence.</h3>
-<img align="right" alt="lets_code" width="400" src="[https://tenor.com/en-GB/view/coding-gif-24625099](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fda%3Atrue%2Fresize%3Afit%3A800%2F1*1ojV4epPGRxhZE26dVI4pQ.gif&imgrefurl=https%3A%2F%2Fpanditrk2000.medium.com%2Fdos-and-don-ts-in-a-coding-interview-927887a83a54&tbnid=JhAwboD-suUlZM&vet=12ahUKEwj3r-XF09D9AhV42XMBHSAABZYQMyhdegUIARDzAQ..i&docid=EvD6dTqhSjiZHM&w=800&h=417&q=coding%20animated%20gif&ved=2ahUKEwj3r-XF09D9AhV42XMBHSAABZYQMyhdegUIARDzAQ)">
+<img align="right" alt="lets_code" width="400" src="https://images.app.goo.gl/Lv7waAhwJPtc12me9">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8962&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8962" /> </p>
