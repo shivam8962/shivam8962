@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate full stack developer with keen interest in Artificial Intelligence.</h3>
-<img align="right" alt="lets_code" width="400" src="https://vibeforgenz.lk/wp-content/uploads/2021/11/ApprehensiveDrearyCaimanlizard-size_restricted.gifs">
+<img align="right" alt="lets_code" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FqJ5evVs-_uUAAAAC%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&tbnid=MwozBsUeOfn96M&vet=12ahUKEwipq5rT0ND9AhXqhNgFHRfdB6IQMygKegUIARCaAg..i&docid=cR54yvEmE2nqmM&w=498&h=249&q=coder%20gif&hl=en-GB&ved=2ahUKEwipq5rT0ND9AhXqhNgFHRfdB6IQMygKegUIARCaAg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8962&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8962" /> </p>
