@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Mern, Python**
 
-- 📫 How to reach me **shivamsingh8962@gmail.com**
+- 📫 How to reach me **Shivam.webcraft@gmail.com**
 
 <!--
 <h3 align="left">Connect with me:</h3>
